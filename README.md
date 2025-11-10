@@ -7,7 +7,7 @@ Unlike many others, I have my strong opinions about AI and its role in software 
 \
 I am more of a backend developer, but I also enjoy working on mobile applications and desktop software.\
 \
-I have my own VPS that I use to host my projects and experiment with new technologies.\
+I have my own VPS that I use to host my projects and experiment with new technologies.
 
 ## Portfolio
 
@@ -18,7 +18,7 @@ Feel free to check out [my portfolio](https://highest.dev) to see more about me 
 - **Laptop**: Galaxy Book3 Pro 360
   - **OS**: Windows 11
   - **Shell**: Fish
-  - **IDE**: Neovim & Visual Studio Code
+  - **IDE**: IntelliJ IDEA & Visual Studio Code
   - **Terminal**: Windows Terminal
   - **Shell Prompt**: Starship
 - **Phone**: Galaxy Z Fold6
