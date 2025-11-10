@@ -2,10 +2,12 @@
 
 ## About Me
 
-I've been into computers since I was 3 and started software development at 10 years old, starting with a custom plugin in Java for my own Minecraft server, which is still running to this day.
-Unlike many others, I have my strong opinions about AI and its role in software development.
+I've been into computers since I was 3 and started software development at 10 years old, starting with a custom plugin in Java for my own Minecraft server, which is still running to this day.\
+Unlike many others, I have my strong opinions about AI and its role in software development.\
 \
-I have my own VPS that I use to host my projects and experiment with new technologies.
+I am more of a backend developer, but I also enjoy working on mobile applications and desktop software.\
+\
+I have my own VPS that I use to host my projects and experiment with new technologies.\
 
 ## Portfolio
 
@@ -47,3 +49,8 @@ Feel free to check out [my portfolio](https://highest.dev) to see more about me 
 | **AbstractVM (Solo)** | A simple stack-based virtual machine that executes a custom assembly-like language, implemented in C++. | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **MyRPG (Group)** | A 2D RPG game developed using the CSFML library, featuring particles, character progression, and quests. | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSFML](https://img.shields.io/badge/csfml-%2320352A.svg?style=for-the-badge&logo=sfml&logoColor=white) |
 | **ARea (Group)** | An IFTTT-like application that allows users to create automated tasks based on triggers and actions. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![PostgresQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| **R-Type (Group)** | A multiplayer remake of the classic R-Type arcade game using C++ and SFML, featuring networked gameplay. | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SFML](https://img.shields.io/badge/sfml-%2320352A.svg?style=for-the-badge&logo=sfml&logoColor=white) |
+
+## Contact Me
+
+Feel free to reach out to me via [email](mailto:highest@sk.network).
