@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**highesttt/highesttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I've been into computers since I was 3 and started software development at 10 years old, starting with a custom plugin in Java for my own Minecraft server, which is still running to this day.
+Unlike many others, I have my strong opinions about AI and its role in software development.
+\
+I have my own VPS that I use to host my projects and experiment with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+Feel free to check out [my portfolio](https://highest.dev) to see more about me and my work.
+
+## My Daily Carry
+
+- **Laptop**: Galaxy Book3 Pro 360
+  - **OS**: Windows 11
+  - **Shell**: Fish
+  - **IDE**: Neovim & Visual Studio Code
+  - **Terminal**: Windows Terminal
+  - **Shell Prompt**: Starship
+- **Phone**: Galaxy Z Fold6
+- **Tablet**: Galaxy Tab S8 Ultra
+- **Watch**: Galaxy Watch6 Classic
+
+## Big Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------------|
+| **SkNetwork** | This is the infamous Minecraft server network I run, which has been active since 2012, it ran through 3 different names before settling with this one. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Aviate** | A flight companion app that helps users manage their travel plans, check flight statuses, and access boarding passes easily. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+
+## Smaller Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------------|
+| **Classes App** | A simple android app which automatically syncs with Blackboard and Moodle to show your class schedule and upcoming assignments. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **IPTX** | A modern and super fast IPTV player for Android. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Open In Editor** | A Raycast Extension that allows you to open files and projects in your favorite code editor directly from Raycast. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Beeper WinUI Theme** | A custom WinUI theme for Beeper Desktop to make the app feel more native. | ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) |
+
+## School Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------------|
+| **Minilibc (Solo)** | A custom implementation of the C standard library functions as part of an X86-64 assembly programming course. | ![Assembly](https://img.shields.io/badge/assembly-%23AA2D2D.svg?style=for-the-badge&logo=assembly-language&logoColor=white) |
+| **AbstractVM (Solo)** | A simple stack-based virtual machine that executes a custom assembly-like language, implemented in C++. | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **MyRPG (Group)** | A 2D RPG game developed using the CSFML library, featuring particles, character progression, and quests. | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSFML](https://img.shields.io/badge/csfml-%2320352A.svg?style=for-the-badge&logo=sfml&logoColor=white) |
+| **ARea (Group)** | An IFTTT-like application that allows users to create automated tasks based on triggers and actions. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![PostgresQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
