@@ -37,6 +37,7 @@ Feel free to check out [my portfolio](https://highest.dev) to see more about me 
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------------|
+| [**Matrix Line Bridge**](https://github.com/highesttt/mautrix-line-messenger/) | A bridge that connects Matrix to LINE Messenger, made for use with Beeper. | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | **Classes App** | A simple android app which automatically syncs with Blackboard and Moodle to show your class schedule and upcoming assignments. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | **IPTX** | A modern and super fast IPTV player for Android. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | [**Beeper WinUI Theme**](https://github.com/highesttt/Beeper-WinUI-Theme) | A custom WinUI theme for Beeper Desktop to make the app feel more native. | ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) |
