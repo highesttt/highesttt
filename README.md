@@ -26,18 +26,23 @@ Feel free to check out [my portfolio](https://highest.dev) to see more about me 
 - **Tablet**: Galaxy Tab S8 Ultra
 - **Watch**: Galaxy Watch6 Classic
 
-## Big Projects
+## Startup Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------------|
 | [**SkNetwork**](https://minecraft-server-list.com/server/504858/) | This is the infamous Minecraft server network I run, which has been active since 2012, it ran through 3 different names before settling with this one. I've written a few custom plugins for it, ranging from the massive SkCore plugin to the smaller SkExplosions plugin | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | [**Aviate**](https://www.aviate.to) | A flight companion app that helps users manage their travel plans, check flight statuses, and access boarding passes easily. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
-## Smaller Projects
+## Big Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------------|
 | [**Matrix Line Bridge**](https://github.com/highesttt/mautrix-line-messenger/) | A bridge that connects Matrix to LINE Messenger, made for use with Beeper. | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+
+## Smaller Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------------|
 | **Classes App** | A simple android app which automatically syncs with Blackboard and Moodle to show your class schedule and upcoming assignments. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | **IPTX** | A modern and super fast IPTV player for Android. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | [**IPTX Desktop**](https://github.com/highesttt/IPTX-Desktop) | A modern and super fast IPTV player for Windows with a WinUI 3 theme. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
